@@ -1,4 +1,4 @@
-# Data-Analytics
+# Introduction of data
 Repository of Assignments of Data Analytics Training
-1. Introduction of data
+
 
